@@ -25,13 +25,15 @@ Step 5: Constraint
 - Your task is to output 5 things
 - Answer the previous questions only if you know the answer or can make a well-informed guess; otherwise, tell me you don't know it. Also, ask me any questions for clarification before generating your answer.
 
+Screenshots of the solution are added in the /Screenshots folder
+
 ## Challenges:
 
 The task was complex as it involved:
 - Understanding a highly emotional human relationship solely based on data
 - Sharing an entire chat between two people with an AI website, requiring caution in trusting available options.
 Challenges included:
-- Difficulty in trusting websites, as it seemed anyone could create an AI website with LLMs and APIs (Any tool didn’t seem as trustable as Claude though :))
+- Difficulty in trusting websites, as it seemed anyone could create an AI website with LLMs and APIs (Any tool didn’t seem as trustable as Claude though 🤝)
 - Reading through privacy policies, finding some websites lacking policies or having generic or naive ones
 - Eventually finding a website that met the requirements
 The task was interesting because:
@@ -39,4 +41,4 @@ The task was interesting because:
 - The results aligned with instincts about the friend
 - Confronting the guy confirmed the match between LLM inferences and his words.
 
-## Moral: With the help of an LLM, I saved my friend's mental health while respecting the privacy of her chat data. #MissionAccomplished :)
+## Moral: With the help of an LLM, I saved my friend's mental health while respecting the privacy of her chat data. #MissionAccomplished 🚀
